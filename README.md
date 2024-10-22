@@ -1,6 +1,6 @@
-## Getting Started
+## Idea de projecto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Prueba de TDD en java para el proyecto final en progra
 
 ## Folder Structure
 
